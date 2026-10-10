@@ -129,7 +129,7 @@ Disk at 30% with 40 GB free — log rotation and backup policies (MAX_BACKUP_KEE
 
 ---
 
-## 4. The Verdict (A Little Mockery)
+## 4. The Verdict
 
 Gentlemen, gentlemen, gentlemen.
 
