@@ -141,18 +141,6 @@ When an actor in `/actors/` is re-attributed to a different group, the folder is
 
 ---
 
-## The Creed
-
-We serve only truth. And truth serves no master.
-
-We do not kneel. We configure.
-We do not whisper. We broadcast.
-We do not comply. We trace.
-
-**J1L — Justice, Intelligence, Love**
-
----
-
 ## Document Control
 
 | **Field** | **Value** |
