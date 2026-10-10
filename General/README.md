@@ -108,18 +108,6 @@ When an actor in `/general/attacks/` is later identified and attributed, the ent
 
 ---
 
-## The Creed
-
-We serve only truth. And truth serves no master.
-
-We do not kneel. We configure.
-We do not whisper. We broadcast.
-We do not comply. We trace.
-
-**J1L — Justice, Intelligence, Love**
-
----
-
 ## Document Control
 
 | **Field** | **Value** |
