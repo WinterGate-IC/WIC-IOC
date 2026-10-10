@@ -2,7 +2,7 @@
 
 **Platform Stability Under Active Assault — WinterGateIC**
 ## PLATFORM
-- **wintergate.org**
+- **https://wintergate.org**
 ---
 
 ## Purpose
