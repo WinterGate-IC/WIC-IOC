@@ -1,16 +1,16 @@
 # WINTERGATEIC — OFFICIAL INCIDENT REPORT
 ## WIC-DAE-001: Defense-Amplification Exploitation Campaign
 
-**Report ID:** WIC-IR-2026-1019-DAE-001
-**Version:** 2.0 (Public Release Edition — Extended)
-**Incident Classification:** Adaptive Connection-Flood / Defense-Amplification Exploitation
-**Severity:** CRITICAL
-**Status:** MITIGATED — Containment verified against recurrence
-**Incident Window:** 2026-10-15 through 2026-10-21 (primary cascade 2026-10-19)
-**Report Date:** 2026-10-22
-**Author:** WinterGateIC Abuse Desk (Anoncatalyst)
-**Distribution:** Public / Community
-**Related Documents:** WIC-DAE-001 Vulnerability Deep Dive; Defense-Amplification Analysis; APEX Defense Architecture Build & Hardening Report; Morning Restart-Storm Postmortem; Consolidated Attack Reconstruction
+- **Report ID:** WIC-IR-2026-1019-DAE-001
+- **Version:** 2.0 (Public Release Edition — Extended)
+- **Incident Classification:** Adaptive Connection-Flood / Defense-Amplification Exploitation
+- **Severity:** CRITICAL
+- **Status:** MITIGATED — Containment verified against recurrence
+- **Incident Window:** 2026-10-15 through 2026-10-21 (primary cascade 2026-10-19)
+- **Report Date:** 2026-10-22
+- **Author:** WinterGateIC Abuse Desk (Anoncatalyst)
+- **Distribution:** Public / Community
+- **Related Documents:** WIC-DAE-001 Vulnerability Deep Dive; Defense-Amplification Analysis; APEX Defense Architecture Build & Hardening Report; Morning Restart-Storm Postmortem; Consolidated Attack Reconstruction
 
 ---
 
